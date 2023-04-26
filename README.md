@@ -15,6 +15,6 @@ Visit our [documentation](https://docs.shopstory.app/) to find out more.
 -   Shopstory is simply a new CMS field. Developers can add Shopstory field anywhere within existing data model.
 -   Fetch Shopstory content via Sanity API and render in any part of your React front-end. We provide easy-to-use SDK to orchestrate everything.
 
-### Requirementsa
+### Requirements
 
 -   React front-end (Next.js, Gatsby or others)
